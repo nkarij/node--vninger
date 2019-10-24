@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "Anna Andersson",
+    "email": "anna@mail.com"
+  },
+  {
+    "id": 2,
+    "username": "Peter Petersson",
+    "email": "peter@mail.com"
+  },
+  {
+    "id": 3,
+    "username": "Martin Martinsson",
+    "email": "martin@mail.com"
+  },
+  {
+    "id": 3,
+    "username": "Martin Martinsson",
+    "email": "martin@mail.com"
+  }
+]
